@@ -1,6 +1,6 @@
-# Source Code for Web Scarping with Python Course
+# Source Code for Web Scraping with Python Course
 
-These are the companion files for working on the excercises in the [Web Scraping with Python](https://www.youtube.com/playlist?list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV) tutorial on our Youtube Channel.
+These are the companion files for working on the exercises in the [Web Scraping with Python](https://www.youtube.com/playlist?list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV) tutorial on our Youtube Channel.
 
 ## Content
 
